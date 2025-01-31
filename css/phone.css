@@ -1,0 +1,184 @@
+
+@media only screen and (max-width:700px){
+    .content-box h1{
+        font-size: 20px;
+    }
+
+    .content-box p{
+        display: none;
+    }
+
+    .content-box .container{
+        padding: 0px 30px;
+    }
+
+    /* top bar */
+
+    .top-one{
+        display: none;
+    }
+    
+    .top-three{
+        display: none;
+    }
+    
+    .top-bar {
+        padding: 10px 0px;
+    }
+
+
+    /* category */
+
+    .myCateSwiperphone{
+        display: block !important;;
+    }
+
+    .myCateSwiper{
+        display:none;
+    }
+
+    .category .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+      /* deal 1 */
+
+      .deals-discount-1 .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+      .banner-collection{
+        border-radius: 20px;
+      }
+
+      /* deal 2 */
+
+      .deals-discount-2 .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+      .img-1{
+        background-image: url("../images/electronic-6.jpg");
+        height: 480px;
+        background-size: cover;
+        padding: 40px 50px;
+        display: flex;
+        justify-content:center;
+        align-items: end;
+        object-fit: cover;
+    }
+
+    .img-2{
+        background-image: url("../images/electronic-7.jpg");
+        height: 480px;
+        background-size: cover;
+        padding: 40px 50px;
+        display: flex;
+        justify-content:center;
+        align-items: end;
+        object-fit: cover;
+    } 
+
+
+
+      /* deal 3 */
+
+      .deals-discount-3 .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+  /* trending  */
+    .mytrendingphone{
+        display: block!important;
+    }
+    .mytrending{
+        display: none!important;
+    }
+
+    .trending-product .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+    /* happy  */
+
+    .myhappyphone{
+        display: block!important;
+    }
+
+    .myhappy{
+        display: none!important;
+    }
+
+    .happy-client .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+    /* blog */
+
+    .myblogphone{
+        display: block!important;
+    }
+
+    .myblog{
+        display: none!important;
+    }
+
+    .blog-post .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+    /* support */
+
+    .support-box .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+    .support{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .support .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+      .support-inner{
+        margin: 10px 0px;
+      }
+
+      /* footer */
+
+
+
+      /* footer bottom  */
+
+      .inner-bottom {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .footer-bottom .container-fluid{
+        margin: 0;
+        padding: 0px 10px;
+      }
+
+      .payment{
+        display: flex;
+        justify-content: space-evenly;
+      }
+
+      .footer-menu {
+        text-align: center;
+        margin: 0px 0px 15px 0px;
+      }
+
+}
